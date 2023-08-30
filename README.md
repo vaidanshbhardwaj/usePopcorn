@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# usePopcorn
+## use Popcorn course project made amidst The Ultimate React course by Jonas Schmedtmann.
+![screencapture-localhost-3000-2023-08-30-08_03_49](https://github.com/vaidanshbhardwaj/usePopcorn/assets/94763871/0b534702-0e20-415b-a2d1-60a97523c0c6)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
